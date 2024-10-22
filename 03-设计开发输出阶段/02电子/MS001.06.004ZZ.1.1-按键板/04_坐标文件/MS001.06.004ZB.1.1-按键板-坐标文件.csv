@@ -1,0 +1,4 @@
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation
+K1,K2-1817UQ-A4SW-01,TopLayer,PCBComponent_1,551.181,1191.929,180
+K2,K2-1817UQ-A4SW-01,TopLayer,PCBComponent_1,551.181,2089.567,180
+J1,PHB-4AWB,TopLayer,PHB-4,549.882,295.866,0

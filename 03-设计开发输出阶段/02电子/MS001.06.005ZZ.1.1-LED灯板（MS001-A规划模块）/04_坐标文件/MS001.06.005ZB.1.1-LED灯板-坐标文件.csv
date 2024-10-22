@@ -1,0 +1,26 @@
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+R12,130¦¸/0805,TopLayer,LC-0805_R,-236.221,505.118,180,ÌùÆ¬µç×è
+R11,130¦¸/0805,TopLayer,LC-0805_R,-236.221,1515.748,180,ÌùÆ¬µç×è
+R10,130¦¸/0805,TopLayer,LC-0805_R,-236.221,2526.378,180,ÌùÆ¬µç×è
+R9,130¦¸/0805,TopLayer,LC-0805_R,-236.221,3537.008,180,ÌùÆ¬µç×è
+R8,130¦¸/0805,TopLayer,LC-0805_R,-236.221,4547.638,180,ÌùÆ¬µç×è
+R7,130¦¸/0805,TopLayer,LC-0805_R,-236.221,5558.268,180,ÌùÆ¬µç×è
+R6,130¦¸/0805,TopLayer,LC-0805_R,-236.221,6568.898,180,ÌùÆ¬µç×è
+R5,130¦¸/0805,TopLayer,LC-0805_R,-236.221,7579.528,180,ÌùÆ¬µç×è
+R4,130¦¸/0805,TopLayer,LC-0805_R,-236.221,8590.158,180,ÌùÆ¬µç×è
+R3,130¦¸/0805,TopLayer,LC-0805_R,-236.221,9600.788,180,ÌùÆ¬µç×è
+R2,130¦¸/0805,TopLayer,LC-0805_R,-236.221,10611.418,180,ÌùÆ¬µç×è
+R1,130¦¸/0805,TopLayer,LC-0805_R,-236.221,11622.048,180,ÌùÆ¬µç×è
+J1,PHB-2,BottomLayer,PCBComponent_1,5.37,1042,360,"Header, 2-Pin, Right Angle"
+D12,LED3,TopLayer,PCBComponent_1,0,505.118,0,Typical BLUE SiC LED
+D11,LED3,TopLayer,PCBComponent_1,0,1515.748,0,Typical BLUE SiC LED
+D10,LED3,TopLayer,PCBComponent_1,0,2526.378,0,Typical BLUE SiC LED
+D9,LED3,TopLayer,PCBComponent_1,0,3537.008,0,Typical BLUE SiC LED
+D8,LED3,TopLayer,PCBComponent_1,0,4547.638,0,Typical BLUE SiC LED
+D7,LED3,TopLayer,PCBComponent_1,0,5558.268,0,Typical BLUE SiC LED
+D6,LED3,TopLayer,PCBComponent_1,0,6568.898,0,Typical BLUE SiC LED
+D5,LED3,TopLayer,PCBComponent_1,0,7579.528,0,Typical BLUE SiC LED
+D4,LED3,TopLayer,PCBComponent_1,0,8590.158,0,Typical BLUE SiC LED
+D3,LED3,TopLayer,PCBComponent_1,0,9600.788,0,Typical BLUE SiC LED
+D2,LED3,TopLayer,PCBComponent_1,0,10611.418,0,Typical BLUE SiC LED
+D1,HL-AM-2835H489B C-S1-08HL,TopLayer,PCBComponent_1,0,11622.048,0,Typical BLUE SiC LED
